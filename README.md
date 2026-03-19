@@ -13,3 +13,5 @@ This program compares two integers provided by the user and determines which one
 * Uses a **Function Prototype** for better code organization.
 * Implements an `if-else` logic to handle comparison.
 * Includes a check in the `main` function to identify if the numbers are equal.
+
+### Update: Added Factorial calculation using long long for large numbers and input validation for negative values.
