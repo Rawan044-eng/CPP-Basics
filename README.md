@@ -37,3 +37,11 @@ A C++ program that demonstrates **Function Decomposition** by separating the log
 * Function Prototypes & Implementation.
 * Handling Floating-point arithmetic.
 * Code Readability and Organization.
+
+## 🔄 Swap by Reference
+This program demonstrates the concept of **Pass by Reference** in C++.
+
+### Why this is important:
+* Unlike **Pass by Value**, using the `&` operator allows the function to access the actual memory address of the variables.
+* This enables the function to modify the original values in the `main()` scope directly, without needing a `return` statement.
+* It uses a **Temporary Variable (`temp`)** to perform the swap logic securely.
