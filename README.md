@@ -15,3 +15,12 @@ This program compares two integers provided by the user and determines which one
 * Includes a check in the `main` function to identify if the numbers are equal.
 
 ### Update: Added Factorial calculation using long long for large numbers and input validation for negative values.
+
+---
+## Sphere Calculations 🏀
+A math-based program to calculate the **Surface Area** and **Volume** of a sphere.
+
+### Skills Applied:
+* Using the `<cmath>` library for power functions (`pow`).
+* Handling floating-point division (`4.0 / 3.0`).
+* Global vs Local function implementation.
