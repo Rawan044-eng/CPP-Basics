@@ -24,3 +24,16 @@ A math-based program to calculate the **Surface Area** and **Volume** of a spher
 * Using the `<cmath>` library for power functions (`pow`).
 * Handling floating-point division (`4.0 / 3.0`).
 * Global vs Local function implementation.
+
+## 🔢 Sum and Average Calculator
+A C++ program that demonstrates **Function Decomposition** by separating the logic of calculation into two reusable functions.
+
+### How it works:
+* **`sum()` function**: Takes three integers and returns their total.
+* **`average()` function**: Takes the total sum and calculates the mean using `float` precision (`3.0`) to ensure accurate decimal results.
+* **Main Logic**: The program showcases how to pass data between functions efficiently.
+
+### Key Skills:
+* Function Prototypes & Implementation.
+* Handling Floating-point arithmetic.
+* Code Readability and Organization.
