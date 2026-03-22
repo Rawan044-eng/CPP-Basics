@@ -40,6 +40,10 @@ A C++ program that demonstrates **Function Decomposition** by separating the log
 
 ## 🔄 Swap by Reference
 This program demonstrates the concept of **Pass by Reference** in C++.
+### Why this is important:
+* Unlike **Pass by Value**, using the `&` operator allows the function to access the actual memory address of the variables.
+* This enables the function to modify the original values in the `main()` scope directly, without needing a `return` statement.
+* It uses a **Temporary Variable (`temp`)** to perform the swap logic securely.
 
 ## 💰 Employee Salary Processor
 A C++ program that manages a list of employee salaries using Arrays.
@@ -54,7 +58,3 @@ A C++ program that manages a list of employee salaries using Arrays.
 * Arrays in C++.
 * For-Loops for data entry and processing.
 * Arithmetic operations and percentage calculation.
-### Why this is important:
-* Unlike **Pass by Value**, using the `&` operator allows the function to access the actual memory address of the variables.
-* This enables the function to modify the original values in the `main()` scope directly, without needing a `return` statement.
-* It uses a **Temporary Variable (`temp`)** to perform the swap logic securely.
