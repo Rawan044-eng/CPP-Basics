@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-float list[10],sum_of_salaries=0;
+float list[10],sum_of_salaries=0.0;
 
 for(int i=0;i<10;i++)
 {
