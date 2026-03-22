@@ -58,3 +58,10 @@ A C++ program that manages a list of employee salaries using Arrays.
 * Arrays in C++.
 * For-Loops for data entry and processing.
 * Arithmetic operations and percentage calculation.
+
+### 🔄 Advanced Array Element Swapping
+This program demonstrates two ways to swap elements between two arrays:
+1. **Manual Swap:** Using a temporary variable (`temp`) to understand memory logic.
+2. **Built-in Swap:** Mentioning the `std::swap()` function for cleaner code.
+
+**Key Learning:** Managing array indices correctly to avoid "Out of Bounds" errors.
